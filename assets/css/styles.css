@@ -1,0 +1,18 @@
+#create-tasks{
+    background-color: rgb(205, 6, 6);
+};
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Quicksand', sans-serif;
+}
+body 
+{
+  background-image: url("https://lumiere-a.akamaihd.net/v1/images/gallery_princess_rapunzel_7_32c78aed_757371e2.jpeg?region=3%2C0%2C2175%2C1223");
+  background-position: 90%;
+  background-repeat: no-repeat;
+ background-size: cover;
+ background-attachment: fixed;
+}
